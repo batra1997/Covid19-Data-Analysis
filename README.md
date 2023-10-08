@@ -11,15 +11,15 @@ The collected data underwent preprocessing steps, including data cleaning that i
 • Formatting the datatype to datetime for Case_Reported_Date column<br>
 • Adding column for Year in the dataset separately for analysis<br>
 
-### Vaccination_Data.xls Excel Analysis
+### Vaccination_Data.xls Excel Analysis<br>
 • The non-zero values from fully vaccinated column were moved to second column cumulative.<br>
 
-## Data Reduction: <br>
-Data reduction techniques were applied to extract the necessary information for analysis. This included -: <br>
+## Data Reduction:<br>
+Data reduction techniques were applied to extract the necessary information for analysis. This included -:<br>
 • Selecting specific columns (Age_Group, Reporting_PHU_City, Client_Gender, Severity, Case_Reported_Date) and removing the columns not required for analysis<br>
 • Removing rows filtered on Client_Gender, Age_Group and Year column<br>
 
-## Data Analysis: <br>
+## Data Analysis:<br>
 Python's data analysis libraries, such as pandas, NumPy, and Matplotlib/Seaborn for visualization, were used to perform various analysis, including -:<br>
 • Descriptive statistics to understand data characteristics.<br>
 • Data visualization (line plots, bar charts, Heatmap) to visualize trends.<br>
