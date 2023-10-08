@@ -1,11 +1,10 @@
 # Covid19-Data-Analysis
 
 ## Data Collection: 
-The analysis involved the collection of COVID-19 data using publicly available datasets on Data Catalogue that are <Confirmed_Cases.csv>(https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350)
- and Vaccination_Data.xls
+The analysis involved the collection of COVID-19 data using publicly available datasets on Data Catalogue that are [Confirmed_Cases.csv](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario/resource/455fd63b-603d-4608-8216-7d8647f43350) and [Vaccination_Data.xls](https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario/resource/2a362139-b782-43b1-b3cb-078a2ef19524)
 
 ## Data Preprocessing: 
-The collected data underwent preprocessing steps, including data cleaning that involved -:
+The collected data underwent preprocessing steps, including data cleaning that involved -:<br>
 ### Confirmed_Cases.csv Python Analysis
 •	Handling missing values in the Outcome1(later renamed to Severity) column
 •	Formatting the datatype to datetime for Case_Reported_Date column
