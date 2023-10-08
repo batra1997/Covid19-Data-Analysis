@@ -27,8 +27,7 @@ Python's data analysis libraries, such as pandas, NumPy, and Matplotlib/Seaborn 
 
 # Tools Used:
 Programming Language – Python<br>
-Development Environment – Jupyter Notebook(IDE) – Confirmed_Cases dataset<br>
-				                  Microsoft Excel – Vaccination_Data Dataset<br>
+Development Environment – Jupyter Notebook(IDE) and Microsoft Excel<br>
 
-# Summary:<br>
+# Summary:
 COVID-19 data analysis was conducted using two separate tools: Python and Excel. Python was used for its flexibility in data collection, preprocessing, and advanced analysis techniques, while Excel was employed for its user-friendly interface and data reduction capabilities. Both tools contributed to extracting valuable insights from COVID-19 datasets for reporting and decision-making.
